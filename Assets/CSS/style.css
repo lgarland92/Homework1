@@ -1,0 +1,188 @@
+#right {
+    float: right;
+    background: paleturquoise;
+    width: 150px;
+    height: 60px;
+    margin: 30px;
+    color: white;
+    text-align: center;
+    top: 0px;
+    font-size: 20pt;
+    position: absolute;
+    top: -50%;
+    right: 0px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#middle {    
+    float: right;
+    background: paleturquoise;
+    width: 150px;
+    height: 60px;
+    margin: 30px;
+    color: white;
+    text-align: center;
+    top: 0px;
+    font-size: 20pt;
+    position: absolute;
+    top: -50%;
+    right: 11%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#left {    
+    float: right;
+    background: paleturquoise;
+    width: 150px;
+    height: 60px;
+    margin: 30px;
+    color: white;
+    text-align: center;
+    top: 0px;
+    font-size: 20pt;
+    position: absolute;
+    top: -50%;
+    right: 22%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#box1 {
+    height: 60px;
+    width: 100%;
+    position: relative;
+    background: palegoldenrod;
+    top: 0%;
+}
+
+#box2 {
+    height: 50px;
+    width: 10%;
+
+}
+
+#name {
+    position: absolute;
+    margin-right: 0%;
+    margin-left: 25%;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 36pt;
+}
+
+#box3 {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 40px;
+    border: dotted lightblue 5px;
+}
+
+a:hover {
+    font-weight: bolder;
+}
+
+#me {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 24pt;
+}
+
+#bio-image {
+    margin-left: 10px;
+}
+
+#bio-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#portfolio-background {
+    width: 600px;
+    height: 500px;
+    background: lightblue;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+}
+
+.portfolio-box {
+    width: 170px;
+    height: 170px;
+    background: lightblue;
+    position: absolute;
+}
+
+#first {
+    position: absolute;
+    left: 15%;
+    top: 12%;
+}
+
+#second {
+    position: absolute;
+    right: 15%;
+    top: 12%;
+}
+
+#third {
+    position: absolute;
+    right: 15%;
+    bottom: 12%;
+}
+
+#fourth {
+    position: absolute;
+    left: 15%;
+    bottom: 12%;
+}
+
+.portfolio-link {
+    position: absolute;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 18pt;
+}
+
+#first-name {
+    left: 16%;
+    top: 14%;
+}
+
+#second-name {
+    right: 16%;
+    top: 14%;
+}
+
+#third-name {
+    right: 17%;
+    bottom: 14%;
+}
+
+#fourth-name {
+    left: 16%;
+    bottom: 14%;
+}
+
+#copyright-box {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background: palegoldenrod;
+    height: 40px;
+    text-align: center;
+}
+
+#contact-background {
+    width: 600px;
+    height: 500px;
+    background: lightblue;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+}
+
+.contact {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 36pt;
+}
+
+body {
+    background-image: url("background.png");
+}
